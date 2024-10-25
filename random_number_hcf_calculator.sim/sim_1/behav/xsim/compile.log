@@ -2,6 +2,7 @@ INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/SHUBHAM_KUMAR_JHA/Desktop/
 INFO: [VRFC 10-311] analyzing module three_invertor_ring_counter
 INFO: [VRFC 10-311] analyzing module dFF
 INFO: [VRFC 10-311] analyzing module random_number_generator
+INFO: [VRFC 10-311] analyzing module HCF_calculator
 INFO: [VRFC 10-311] analyzing module random_number_hcf_calculator
 INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/SHUBHAM_KUMAR_JHA/Desktop/VLSI/verilog/random_number_hcf_calculator/random_number_hcf_calculator.srcs/sim_1/new/random_number_hcf_calculator_tb.v" into library xil_defaultlib
 INFO: [VRFC 10-311] analyzing module random_number_hcf_calculator_tb

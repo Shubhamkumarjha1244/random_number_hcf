@@ -22,12 +22,12 @@
 
 module random_number_hcf_calculator_tb();
 reg clk=0;
-wire out;
-random_number_generator dut(clk,out);
+wire[15:0] num1,num2,hcf ;
+random_number_hcf_calculator dut(.clk(clk),.random_number_1(num1),.random_number_2(num2),.hcf(hcf));
 
 always
 #5 clk= ~clk;
 
 initial
-#100 $finish;
+#1000 $finish;
 endmodule
